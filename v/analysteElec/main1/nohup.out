@@ -1,0 +1,66 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8509
+  Network URL: http://212.83.168.217:8509
+  External URL: http://212.83.168.217:8509
+
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://212.83.168.217:8501
+  External URL: http://212.83.168.217:8501
+
+2024-11-23 13:26:47.116 Session with id 9a760e63-c0c0-40ce-87b6-cb96e04ba3cc is already connected! Connecting to a new session.
+2024-11-25 23:27:44.018 Session with id 70881e4a-9a93-41d5-a0a0-ec1a629c2bb0 is already connected! Connecting to a new session.
+2024-11-27 11:37:24.232 Session with id bf7d3643-6c87-4add-90d8-630344ece209 is already connected! Connecting to a new session.
+2024-12-05 10:57:32.074 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/dashboard.py", line 7, in <module>
+    st.set_page_config(
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/metrics_util.py", line 410, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/commands/page_config.py", line 265, in set_page_config
+    ctx.enqueue(msg)
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner_utils/script_run_context.py", line 174, in enqueue
+    raise StreamlitSetPageConfigMustBeFirstCommandError()
+streamlit.errors.StreamlitSetPageConfigMustBeFirstCommandError: `set_page_config()` can only be called once per app page, and must be called as the first Streamlit command in your script.
+
+For more information refer to the [docs](https://docs.streamlit.io/develop/api-reference/configuration/st.set_page_config).
+2024-12-06 00:06:01.298 Session with id 746fe235-ee32-48aa-aacd-60da959a2049 is already connected! Connecting to a new session.
+2024-12-06 15:52:28.697 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/dashboard.py", line 105, in <module>
+    carteE.run()  # Appeler la fonction principale dans carteE.py
+  File "/var/www/html/ODF3/v/analysteElec/main1/carteE.py", line 9, in run
+    data_publications = json.load(f)
+  File "/usr/lib/python3.8/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.8/json/decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 3 column 24 (char 31)
+2024-12-06 20:24:47.753 Session with id 8a601e46-401b-4886-8465-73873c74c87f is already connected! Connecting to a new session.
+2024-12-09 15:41:39.782 Session with id 2c668759-0163-46ba-8616-f4da2046fa49 is already connected! Connecting to a new session.
+2024-12-13 00:34:00.068 Session with id 276b1928-8f29-4854-a267-8fc05e248570 is already connected! Connecting to a new session.
+2024-12-13 00:34:02.046 Session with id 39fd1f98-1bb8-4621-ad33-6e81cad5d835 is already connected! Connecting to a new session.
+2024-12-13 07:55:17.820 Session with id 276b1928-8f29-4854-a267-8fc05e248570 is already connected! Connecting to a new session.

@@ -1,0 +1,268 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8502
+  Network URL: http://212.83.168.217:8502
+  External URL: http://212.83.168.217:8502
+
+2024-11-22 15:41:30.487 Session with id 001f4c95-9702-4d5e-a6ec-0dde137a079a is already connected! Connecting to a new session.
+2024-11-25 15:57:33.538 Session with id ff2feb73-ccf4-454a-8ea6-496a31c4d319 is already connected! Connecting to a new session.
+2024-12-03 16:06:50.274 Session with id fd03e3b0-9e77-4103-96db-a96715580327 is already connected! Connecting to a new session.
+2024-12-09 14:26:33.856 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-09 15:41:40.790 Session with id e76186d6-3ecf-4d08-bfb4-4c598b518485 is already connected! Connecting to a new session.
+2024-12-10 10:07:00.851 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+[ WARN:8@1546781.629] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index
+[ERROR:8@1546781.640] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range
+2024-12-10 10:11:21.905 MediaFileHandler: Missing file 250b7d9e79d88d1dbed7f8242e20737a398085ce76d62a2a28a02a5a.jpg
+2024-12-10 10:11:22.133 MediaFileHandler: Missing file 675ffaccb1a06960eac26160f08261ce3c7287c534b3feaede0c31ff.jpg
+2024-12-10 10:11:36.031 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-10 15:51:37.328 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-10 15:55:32.154 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-10 17:18:12.961 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-10 17:18:13.134 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-10 17:29:07.688 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-10 17:29:17.004 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-10 17:29:18.540 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-10 17:29:21.838 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-11 11:44:42.139 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-11 12:27:23.670 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-11 12:32:48.589 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-11 14:12:20.061 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-11 14:20:53.819 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+[ WARN:9@1648166.134] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index
+[ERROR:9@1648166.199] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range
+[ WARN:10@1648178.389] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index
+[ERROR:10@1648178.390] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range
+[ WARN:11@1648200.142] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index
+[ERROR:11@1648200.142] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range
+[ WARN:12@1648202.021] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index
+[ERROR:12@1648202.022] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range
+2024-12-13 00:33:59.769 Session with id 6cbe0810-57b4-495c-a9f9-63be587f24d0 is already connected! Connecting to a new session.
+2024-12-14 07:35:43.601 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-15 09:24:05.950 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-16 09:35:51.049 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-16 09:38:47.143 Uncaught app exception
+Traceback (most recent call last):
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/var/www/html/djang_env/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 3, in <module>
+    from deepface import DeepFace
+ModuleNotFoundError: No module named 'deepface'
+2024-12-16 23:02:33.011 Session with id ae22b697-98de-4c4e-aa3e-51ade14c3d59 is already connected! Connecting to a new session.
+[ WARN:28@2137557.121] global cap_v4l.cpp:999 open VIDEOIO(V4L2:/dev/video0): can't open camera by index
+[ERROR:28@2137557.142] global obsensor_uvc_stream_channel.cpp:158 getStreamChannelGroup Camera index out of range
+2024-12-19 04:12:32.471 Session with id ad4e68b0-1b12-4fbc-b91e-5a92dc083505 is already connected! Connecting to a new session.
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://212.83.168.217:8501
+  External URL: http://212.83.168.217:8501
+
+2025-01-02 16:45:14.020 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 589, in _run_script
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 2, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+2025-01-02 16:45:16.710 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 589, in _run_script
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/pages/Menu.py", line 2, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+2025-01-02 16:45:17.891 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 589, in _run_script
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/pages/Reconnaissance_Video.py", line 2, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+2025-01-02 16:45:19.163 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 589, in _run_script
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/pages/Menu.py", line 2, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+2025-01-02 16:45:19.921 Uncaught app exception
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.8/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 589, in _run_script
+    exec(code, module.__dict__)
+  File "/var/www/html/ODF3/v/analysteElec/main1/face_rec/Reconnaissance_image.py", line 2, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://212.83.168.217:8501
+  External URL: http://212.83.168.217:8501
+
+  Stopping...

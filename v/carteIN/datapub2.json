@@ -1,0 +1,664 @@
+[
+    {
+      "lat": 14.131341,
+      "lon": 17.132695,
+      "title": "Élection A",
+      "contenus": "Le 28 novembre 2024, une pirogue transportant près de 100 personnes a chaviré sur le lac Tchad, entraînant la mort d'une vingtaine de voyageurs. Maurice Kamto, président du MRC, exprime ses condoléances et souligne la nécessité pour le gouvernement d'améliorer la sécurité des transports sur le lac.",
+      "category": "Politique"
+    },
+    {
+      "lat": 4.0511,
+      "lon": 9.7085,
+      "title": "Événement Social",
+      "contenus": "Le 27 novembre 2024, Me Tamfu Richard, avocat à Douala, a été brutalement interpellé par des gendarmes lors d'une manifestation pacifique, suscitant une indignation générale.",
+      "category": "Social"
+    },
+    {
+      "lat": 10.639432,
+      "lon": 14.27998,
+      "title": "Progrès Économique",
+      "contenus": "Maurice Kamto, président du MRC, dénonce le silence du président de la République face à la résurgence de Boko Haram dans l'Extrême Nord.",
+      "category": "Économique"
+    },
+    {
+      "lat": 4.5667,
+      "lon": 14.3833,
+      "title": "Protestation",
+      "contenus": "Maurice Kamto exprime ses condoléances aux familles des victimes des éboulements survenus à Batouri.",
+      "category": "Politique"
+    },
+    {
+      "lat": 3.6932,
+      "lon": 11.1497,
+      "title": "Conférence",
+      "contenus": "Le Sous-préfet d'Idabato, M. Roland Ewane, a été enlevé par des assaillants.",
+      "category": "Social"
+    },
+    {
+      "lat": 12.5973,
+      "lon": 14.4556,
+      "title": "Naufrage de 18 morts",
+      "contenus": "Division de Darack dans le Logone et Chari : naufrage de 18 morts.",
+      "category": "Social"
+    },
+    {
+      "lat": 6.6004,
+      "lon": 10.6698,
+      "title": "Interdiction de voter",
+      "contenus": "La CBC (Convention Baptiste du Cameroun) interdit aux élèves de voter dans la ville de Nkambé.",
+      "category": "Politique"
+    },
+    {
+      "lat": 5.9631,
+      "lon": 10.1591,
+      "title": "Libération de l'ancien maire",
+      "contenus": "Libération de l'ancien Maire Abel Laugsi à Bamenda.",
+      "category": "Politique"
+    },
+    {
+      "lat": 5.9631,
+      "lon": 10.1591,
+      "title": "Incendies de taxis",
+      "contenus": "Incendies de deux taxis dans la ville de Bamenda par les séparatistes.",
+      "category": "Social"
+    },
+    {
+      "lat": 4.5334,
+      "lon": 8.4321,
+      "title": "Enlèvement d'un sous-préfet",
+      "contenus": "Enlèvement du sous-préfet de Idabato dans le département du Ndian.",
+      "category": "Politique"
+    },
+    {
+      "lat": 4.0815,
+      "lon": 9.3564,
+      "title": "Protestation à la CDC",
+      "contenus": "Les employés de la CDC demandent leurs droits à Tiko.",
+      "category": "Social"
+    },
+    {
+      "lat": 3.8667,
+      "lon": 11.5167,
+      "title": "Enlèvement d'une fillette",
+      "contenus": "Une fillette de 15 ans, Akono Anna Claira, enlevée à Mfou.",
+      "category": "Social"
+    },
+    {
+      "lat": 3.848,
+      "lon": 11.5021,
+      "title": "Disparition d'un employé",
+      "contenus": "Thierry Dong en service à la SGS est porté disparu.",
+      "category": "Social"
+    },
+    {
+      "lat": 3.848,
+      "lon": 11.5021,
+      "title": "Un enfant tue son père",
+      "contenus": "Un enfant de 11 ans tue son père, moto-taximen.",
+      "category": "Social"
+    },
+    {
+      "lat": 3.5185,
+      "lon": 11.5021,
+      "title": "Accident à Mbalmayo",
+      "contenus": "Terrible accident de la route à Mbalmayo tuant un élève.",
+      "category": "Social"
+    },
+    {
+      "lat": 5.4461,
+      "lon": 10.0626,
+      "title": "Accident sur l'axe Yaoundé-Bafoussam",
+      "contenus": "Plusieurs morts dans un accident sur l'axe Yaoundé-Bafoussam.",
+      "category": "Social"
+    },
+    {
+      "lat": 3.848,
+      "lon": 11.5021,
+      "title": "Employé tué à la CRTV",
+      "contenus": "Un employé de la CRTV a été tué à l'entrée de son lieu de travail.",
+      "category": "Social"
+    },
+    {
+      "lat": 4.0511,
+      "lon": 9.7679,
+      "title": "Incendie au marché PK14",
+      "contenus": "Incendie au marché PK14 à Douala.",
+      "category": "Social"
+    },
+    {
+      "lat": 3.848,
+      "lon": 11.5021,
+      "title": "Femme abandonnée son enfant",
+      "contenus": "Une femme abandonnée son enfant au quartier Manguier à Yaoundé.",
+      "category": "Social"
+    },
+    {
+      "lat": 6.0,
+      "lon": 10.1591,
+      "title": "Enlèvement de Joko Frida",
+      "contenus": "Enlèvement et assassinat éventuel de la présidente de la section WCPDM Mezam Joko Frida.",
+      "category": "Politique"
+    },
+    {
+      "lat": 4.5,
+      "lon": 9.05,
+      "title": "Service à la mémoire",
+      "contenus": "Service à la mémoire des 26 civils et d'une force gouvernementale tués par les séparatistes.",
+      "category": "Politique"
+    },
+    {
+      "lat": 4.1552,
+      "lon": 9.2312,
+      "title": "Manifestation à Buea",
+      "contenus": "Manifestation des jeunes à Buea plaidant pour la libération de leurs fils et maris arrêtés.",
+      "category": "Social"
+    },
+    {
+      "lat": 7.0333,
+      "lon": 10.7167,
+      "title": "RELEVE FOREST STORM IV",
+      "contenus": "MDP : BARAMINE. Dispositif d'embuscade offensive de longue durée déployé.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 6.0667,
+      "lon": 10.4333,
+      "title": "TARGUETING A BABA 1",
+      "contenus": "Mes respects mon colonel. HVRC. Manœuvres préemptives de harcèlement de l'OPFOR.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 4.155,
+      "lon": 9.2318,
+      "title": "TRAQUE ET CIBLAGE D'UN RELAIS TERRORISTE",
+      "contenus": "Identifier, localiser et interpeller un individu suspecté de fournir un soutien logistique aux groupes terroristes.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 7.8167,
+      "lon": 12.2667,
+      "title": "EMBUSCADE SUR RENSEIGNEMENT",
+      "contenus": "Embuscade de nuit dans le secteur Mayo-Baleo.",
+      "category": "Militaire"
+    },
+    {
+      "title": "OPÉRATION MILITAIRE À MILE 4 NKWEN",
+      "contenus": "Une opération menée pour neutraliser des opposants et intercepter des suspects, avec la récupération de matériel militaire, incluant des armes et des munitions.",
+      "category": "Militaire",
+      "lat": 5.9635,
+      "lon": 10.1594,
+      "date": "2025-01-20 05:41:21"
+    },
+    {
+      "lat": 5.9635,
+      "lon": 10.1594,
+      "title": "ÉCHANGE DE COUPS DE FEU À DREAMLAND/NKWEN",
+      "contenus": "Une fusillade a éclaté à Dreamland/Nkwen entre les forces militaires et des opposants à moto, faisant 7 civils blessés, dont un décédé après évacuation au centre de santé PMI.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 6.4675,
+      "lon": 9.6411,
+      "title": "OPÉRATION À AGOUA, RÉPONSE AUX ATTAQUES FOULANI",
+      "contenus": "Un détachement à AGOUA a neutralisé un Foulanien. En représailles, les Foulanis ont attaqué et brûlé la position occupée par le détachement. Bilan : 7 morts, 1 disparu, 1 blessé.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 4.7101,
+      "lon": 9.259,
+      "title": "RAID MILITAIRE À MAKOBE, KONYE",
+      "contenus": "Un raid de la 21e BA à Makobe a permis de neutraliser un terroriste et de récupérer du matériel militaire, dont des armes et des composants d'engins explosifs.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 5.9635,
+      "lon": 10.1594,
+      "title": "EXPLOSION À DREAMLAND-JUNCTION, NKWEN",
+      "contenus": "Explosion suivie de coups de feu à Dreamland-Junction, Nkwen. Réaction démesurée des forces de sécurité, sans bilan enregistré.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 10.2663,
+      "lon": 13.2744,
+      "title": "TIR SUR LA POPULATION À KALFOU, MAYO-DANAY",
+      "contenus": "Des tirs ont été ordonnés sur la population de Kalfou après des manifestations liées à la protection contre les éléphants, avec plusieurs blessés, dont des enfants.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 5.6402,
+      "lon": 10.0295,
+      "title": "AFFRONTEMENTS À LA MACHETTE À FOUMBOT, NOUN",
+      "contenus": "Des affrontements violents à la machette entre deux quartiers de Foumbot, sans intervention des forces de sécurité. Le conflit aurait été déclenché par une agression au poignard.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 5.6167,
+      "lon": 12.35,
+      "title": "PATRONNE DE L'UNITE FACA À MEIGANGA, BAKARI",
+      "contenus": "Une patrouille mixte FACA et alliés russes a fait irruption dans le village de Bakari, tentant de remplacer le drapeau camerounais par celui de la Centrafrique. La situation a été maîtrisée, avec 7 FACA restant sur place.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 5.2933,
+      "lon": 9.5086,
+      "title": "OPÉRATION À PONDO, RECHERCHE DU GÉNÉRAL FOCUS",
+      "contenus": "Les éléments de la 21e BA ont effectué une descente à Pondo pour capturer le pseudo-général Focus, récupérant des armes et des munitions.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 5.35,
+      "lon": 10.15,
+      "title": "ATTAQUE PAR OPFOR À FORFUMAR, BRS SS3",
+      "contenus": "Une attaque par des combattants OPFOR lourdement armés contre le 3e Cofumar a fait 2 morts et 2 blessés côté ami. Les opérations de ratissage sont en cours.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 10.33,
+      "lon": 13.66,
+      "title": "TENTATIVE D'ATTAQUE À MOSKOTA, MAYO-TSANAGA",
+      "contenus": "Une tentative d'attaque par Boko Haram sur le camp de la 6e ULI/BIR à Moskota a été repoussée après un combat intense, avec un blessé ami.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 4.0222,
+      "lon": 9.2133,
+      "title": "TRAFIC D'ARMES À LIMBE, FAO",
+      "contenus": "Une opération menée par le GTI à Limbe a abouti à l'arrestation d'un trafiquant d'armes, avec la saisie de matériel militaire dont une arme de guerre.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 5.7175,
+      "lon": 9.4014,
+      "title": "ASSAUT DU BIR À BATIBO, CAPTURE DE MATERIEL",
+      "contenus": "Le BIR a pris d'assaut une base séparatiste à Batibo avec des informations fournies par la population. Bilan matériel : 2 armes de guerre, 17 armes de traite, un véhicule camouflé, un drapeau OPFOR et des billets de taxes OPFOR récupérés.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 5.9635,
+      "lon": 10.1594,
+      "title": "EXPLOSION ET COUPS DE FEU À NKWEN, BAMENDA",
+      "contenus": "Une explosion a été suivie de tirs à Nkwen après un renforcement des forces. Des hommes armés ont ouvert le feu, provoquant la panique parmi la population.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 5.9635,
+      "lon": 10.1594,
+      "title": "ASSASSINAT À MENKA, COMBATTANTS AMBA",
+      "contenus": "Les combattants Amba ont poignardé un homme à Menka, connu sous le nom de 'Cho Pinyin', accusé d'être un intermédiaire entre les séparatistes et la population.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 10.306,
+      "lon": 14.1022,
+      "title": "REPULSE DE L'ASSAUT BOKO HARAM À DARAK, LAC TCHAD",
+      "contenus": "La FMM a repoussé un assaut de Boko Haram/ISWAP à Darak, neutralisant 6 terroristes et mettant d'autres en fuite. 5 soldats de la FMM ont été blessés.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 10.2663,
+      "lon": 13.2744,
+      "title": "EMBUSCADE DE TERRORISTES À MOZOGO, FMM",
+      "contenus": "La FMM a tué 4 terroristes lors d'une embuscade tendue à des terroristes blessés fuyant vers Mozogo, un village situé au sud de Darak.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 4.6096,
+      "lon": 9.1153,
+      "title": "RAID À KONYE, MAKOBE, TERRORISTE COLONEL NEUTRALISÉ",
+      "contenus": "Un raid mené par la 21e BA à Makobe a permis de neutraliser le terroriste colonel Tallest et de récupérer des armes, munitions et du matériel divers.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 4.6005,
+      "lon": 13.6872,
+      "title": "ARRESTATION D'UN GANG À BERTOUA, CRIMINALITÉ",
+      "contenus": "Un gang criminel a été arrêté à Bertoua après des attaques contre des conducteurs de taxi moto. La police a récupéré des objets volés et des armes.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 4.6005,
+      "lon": 11.547,
+      "title": "SUICIDE DU DIRECTEUR DE LYCÉE, HAUT NYONG",
+      "contenus": "Le directeur du lycée de Nguelemendouka a été retrouvé pendu à Yaoundé. Une lettre indique des difficultés professionnelles comme possible cause du suicide.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 3.8911,
+      "lon": 11.2547,
+      "title": "ARRESTATION DE CRIMINELS À AKONOLINGA, GENDARMERIE",
+      "contenus": "La gendarmerie d'Akonolinga a arrêté plusieurs criminels impliqués dans des vols et d'autres crimes dans la région du Centre, mettant fin à leur terrorisation des habitants.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 5.9635,
+      "lon": 10.1594,
+      "title": "ÉCHANGE DE COUPS DE FEU À COUNCIL JUNCTION, BAMENDA",
+      "contenus": "Deux policiers ont été gravement blessés lors d'un échange de tirs à Council Junction à Mankon, Bamenda.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 5.2833,
+      "lon": 12.1083,
+      "title": "OPÉRATION À YAMBA-NGOU, MBÉRÉ, BIR",
+      "contenus": "Le BIR a mené une mission à Yamba-Ngou, neutralisant 3 terroristes et récupérant des armes, des munitions et des objets divers, dont des cartes et des documents.",
+      "category": "Militaire"
+    },
+    {
+      "lat": 4.5592,
+      "lon": 9.7475,
+      "title": "NEUTRALISATION DU COMMANDANT JACOB À PETÉ BAKUNDU",
+      "contenus": "Le commandant Jacob, leader terroriste à Pété Bakundu, a été neutralisé par les éléments du 21e BA à Kumba.",
+      "category": "Militaire"
+    },
+    {
+      "title": "Découverte du matériel Explosif à KUMBA  le 20 Janvier 2025",
+      "contenus": "Le 20 janvier 2025, des capteurs du Bureau de Liaison de Kumba ont découvert du matériel explosif à Bobanda, incluant 18 pains d'explosif C4, une boîte de chargeur Kalashnikov, des fils de câble, 12 télécommandes, 13 fusées et une bouteille d'huile moteur. Cette récupération met en lumière des préoccupations de sécurité dans la région. L'opération souligne l'importance des efforts de surveillance pour détecter les menaces potentielles.",
+      "category": "Militaire",
+      "lat": 4.642349,
+      "lon": 9.494714,
+      "date": "2025-01-20 15:11:39"
+    },
+    {
+      "title": "DÉTENUS PRIS À PARTI PAR LA POPULATION",
+      "contenus": "02 détenus de la prison Centrale de Kondengui pris à partie par les populations du quartier Anguissa. Ils avaient pour habitude d'occuper l'auberge Élisabeth située à 100m du carrefour en allant vers le quartier Belibi. C'était leur lieu de rencontre avec des filles. Cette fois, ils avaient rendez-vous avec des fournisseurs d'armes en complicité avec des gardiens de prison qui ont fui.",
+      "category": "Militaire",
+      "lat": 3.8667,
+      "lon": 11.5167,
+      "date": "2025-01-29 13:05:09"
+    },
+    {
+      "lat": 3.8667,
+      "lon": 11.5167,
+      "title": "Procès au Tribunal Criminel Spécial",
+      "contenus": "Le Tribunal Criminel Spécial de Yaoundé examine plusieurs affaires de détournement de biens publics impliquant des fonctionnaires et des responsables ministériels.",
+      "category": "Politique"
+  },
+  {
+      "lat": 3.8667,
+      "lon": 11.5167,
+      "title": "Commission Franco-Camerounaise",
+      "contenus": "Le Palais de l’Unité de Yaoundé a accueilli la présentation du rapport sur l’engagement de la France contre les mouvements indépendantistes camerounais entre 1945 et 1971.",
+      "category": "Politique"
+  },
+  {
+      "lat": 3.8667,
+      "lon": 11.5167,
+      "title": "Décrets présidentiels",
+      "contenus": "Paul Biya signe deux décrets, l’un décrétant des obsèques officielles pour Emmanuel Bonde, et l’autre autorisant une levée de fonds de 380 milliards de FCFA.",
+      "category": "Économique"
+  },
+  {
+      "lat": 3.8667,
+      "lon": 11.5167,
+      "title": "Conférence annuelle des Travaux Publics",
+      "contenus": "Le ministre Emmanuel NGANOU DJOUMESSI préside une conférence sur l’entretien du réseau routier et la connectivité du pays avec la sous-région.",
+      "category": "Économique"
+  },
+  {
+      "lat": 3.8667,
+      "lon": 11.5167,
+      "title": "Interdiction de la vente à la sauvette",
+      "contenus": "La mairie de Yaoundé interdit la vente à la sauvette dans plusieurs zones pour mettre fin au désordre urbain et libérer l’espace public.",
+      "category": "Social"
+  },
+  {
+      "lat": 3.8667,
+      "lon": 11.5167,
+      "title": "Fête de la Jeunesse 2025",
+      "contenus": "Le ministère de la Jeunesse dément les fausses informations circulant sur les réseaux sociaux et annonce le lancement officiel des festivités le 1er février 2025.",
+      "category": "Social"
+  },
+  {
+      "lat": 38.9072,
+      "lon": -77.0369,
+      "title": "Expulsion de migrants camerounais des USA",
+      "contenus": "Donald Trump lance une vaste opération d’expulsion visant 1 736 ressortissants camerounais en situation irrégulière.",
+      "category": "Politique"
+  },
+  {
+      "lat": -1.6585,
+      "lon": 29.2204,
+      "title": "Crise en RDC - Conflit avec le M23",
+      "contenus": "Le président kényan William Ruto convoque un sommet extraordinaire sur la crise en RDC alors que le M23 revendique le contrôle de Goma.",
+      "category": "Militaire"
+  },
+  {
+      "lat": 5.3453,
+      "lon": -4.0267,
+      "title": "Concours administratifs en Côte d’Ivoire",
+      "contenus": "Une session exceptionnelle est ouverte pour les candidats admis aux concours administratifs n’ayant pas finalisé leurs démarches.",
+      "category": "Social"
+  },
+  {
+      "lat": 34.0209,
+      "lon": -6.8416,
+      "title": "CAN 2025 - Phase de groupes",
+      "contenus": "Le tirage au sort de la CAN 2025 dévoile les groupes, avec le Maroc ouvrant la compétition contre les Comores.",
+      "category": "Autre"
+  },
+  {
+      "lat": -4.4419,
+      "lon": 15.2663,
+      "title": "Aide humanitaire de l’UE à la RDC",
+      "contenus": "L'Union européenne alloue 60 millions d'euros d'aide humanitaire à la RDC pour répondre aux crises humanitaires et conflits.",
+      "category": "Social"
+  },
+  {
+      "lat": 45.4215,
+      "lon": -75.6972,
+      "title": "Canada - Nouvelles restrictions migratoires",
+      "contenus": "Le Canada durcit sa politique d’immigration, limitant l’emploi temporaire et le recrutement d’étudiants étrangers.",
+      "category": "Politique"
+  },
+  {
+    "lat": 5.9613,
+    "lon": 10.1591,
+    "title": "Attaque d'un poste de contrôle à Bamenda",
+    "contenus": "Le 22.06.2024, des terroristes sous les ordres du pseudo-général Weapon ont attaqué un poste de police à Bamenda 1, blessant deux ennemis, dont leur chef.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 5.9622,
+    "lon": 10.1591,
+    "title": "Assassinat du Caporal Bello Bouba",
+    "contenus": "Le 01.07.2024 à Tadu, des terroristes ont tué le Caporal Bello Bouba et ont volé son arme.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 5.96001,
+    "lon": 10.1591,
+    "title": "Assassinat de l'Adjudant SELAMO",
+    "contenus": "Le 08.07.2024 à Bello, un militaire isolé a été tué par des terroristes, qui ont emporté son arme.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 6.3889,
+    "lon": 10.0667,
+    "title": "Attaque contre une base militaire",
+    "contenus": "Le 21.07.2024 à Ndu, une attaque d’une base de la RMIA 5 a causé la mort d'un civil.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 5.9661,
+    "lon": 10.1591,
+    "title": "Assassinat de deux policiers à Bamenda",
+    "contenus": "Le 07.08.2024, deux policiers en poste ont été assassinés par des terroristes armés.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 5.9605,
+    "lon": 10.1591,
+    "title": "Incendie de taxis jaunes",
+    "contenus": "Plusieurs taxis ont été incendiés à Bamenda par des groupes terroristes entre juin et août 2024.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 6.0833,
+    "lon": 10.7000,
+    "title": "Prises d’otages de fonctionnaires",
+    "contenus": "Le 23.06.2024 à Mbingo, deux fonctionnaires ont été kidnappés et libérés après rançon.",
+    "category": "Social"
+  },
+  {
+    "lat": 5.9601,
+    "lon": 10.1591,
+    "title": "Prise d'otages d'une religieuse",
+    "contenus": "Le 11.08.2024, une sœur catholique a été prise en otage à Ndop et libérée contre rançon.",
+    "category": "Social"
+  },
+  {
+    "lat": 5.9611,
+    "lon": 10.1591,
+    "title": "Explosion d’un EEI à Bamenda",
+    "contenus": "Le 09.08.2024, deux policiers à bord d’un taxi ont été tués par une explosion EEI.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 6.0833,
+    "lon": 10.7000,
+    "title": "Conflits entre groupes terroristes",
+    "contenus": "Le 23.07.2024, un affrontement entre factions terroristes a causé la mort d’un combattant.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 6.0000,
+    "lon": 10.2667,
+    "title": "Assassinat d'un ex-combattant DDR",
+    "contenus": "Le 16.06.2024 à Bafut, M. FRU Isidore ASOBO, ex-combattant DDR, a été assassiné pour suspicion de collaboration avec les FDS.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 5.9615,
+    "lon": 10.1591,
+    "title": "Kidnapping d'un commerçant",
+    "contenus": "Le 02.07.2024 à Bamenda, un commerçant nommé M. Eric a été enlevé et libéré après paiement d’une rançon.",
+    "category": "Social"
+  },
+  {
+    "lat": 6.3889,
+    "lon": 10.0667,
+    "title": "Enlèvement d’un père et son fils",
+    "contenus": "Le 17.07.2024 à Ndu, un père et son fils ont été kidnappés par des terroristes avec demande de rançon.",
+    "category": "Social"
+  },
+  {
+    "lat": 5.9620,
+    "lon": 10.1591,
+    "title": "Explosion d’un EEI à Kumbo",
+    "contenus": "Le 27.07.2024, un EEI mis en place sur l’axe Kumbo-Ndop a été désamorcé par les FDS.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 6.4167,
+    "lon": 10.5667,
+    "title": "Incendie de propriétés civiles",
+    "contenus": "Le 16.07.2024 à Ngie, des terroristes ont incendié 03 motocyclettes pour non-respect du Ghost Town Day.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 6.4000,
+    "lon": 10.5000,
+    "title": "Attaque de la résidence du sous-préfet",
+    "contenus": "Le 23.07.2024 à Jakiri, des terroristes ont attaqué la résidence du sous-préfet et incendié une partie du domicile.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 5.8631,
+    "lon": 10.1591,
+    "title": "Explosion d’un EEI à Ndop",
+    "contenus": "Le 25.08.2024, un EEI a explosé à Balikumbat, blessant une femme civile.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 6.4167,
+    "lon": 10.5667,
+    "title": "Affrontements entre groupes terroristes",
+    "contenus": "Le 23.07.2024 à Bamessing, des factions terroristes rivales se sont affrontées, causant un mort.",
+    "category": "Militaire"
+  },
+  {
+    "lat": 6.0333,
+    "lon": 10.2833,
+    "title": "Prise d’otage d’un notable",
+    "contenus": "Le 30.07.2024 à Wum, un notable et un enseignant ont été kidnappés et libérés après paiement d’une rançon.",
+    "category": "Social"
+  },
+  {
+    "lat": 5.9631,
+    "lon": 10.1591,
+    "title": "Enlèvement d'une femme et son enfant",
+    "contenus": "Le 24.07.2024 à Ndu, une mère et son bébé de 9 mois ont été kidnappés et libérés contre rançon.",
+    "category": "Social"
+  },
+  {
+      "lat": 6.0000,
+      "lon": 10.2667,
+      "title": "Un soldat tué dans une embuscade",
+      "contenus": "Un soldat récemment affecté au Nord-Ouest a été tué lors d'une attaque ambazonienne contre un poste. Sa famille a appris la nouvelle par des rumeurs, aucune annonce officielle de l'armée.",
+      "category": "Militaire"
+  },
+  {
+    "lat": 4.8833,
+    "lon": 9.6667,
+    "title": "Raid du 6BIR à Lissombe",
+    "contenus": "Le 15 février 2025, dans le cadre de la sécurisation de la course de l'espoir, une Task Force du 6BIR a mené un raid à Lissombe. Trois terroristes ont été capturés, trois armes de guerre récupérées et un refuge OPFOR détruit.",
+    "category": "Militaire"
+},
+{
+    "lat": 5.8167,
+    "lon": 10.1667,
+    "title": "Deux terroristes neutralisés à Menka (Santa)",
+    "contenus": "Deux membres des Amba Boys ont été neutralisés par la population à Menka, dans l'arrondissement de Santa.",
+    "category": "Militaire"
+},
+{
+    "lat": 12.3333,
+    "lon": 15.2333,
+    "title": "Visite de Ferdinand Ngoh Ngoh dans l'Extrême-Nord",
+    "contenus": "Le Ministre d'État, Ferdinand Ngoh Ngoh, a évalué les dégâts causés par les inondations dans les localités de Yagoua, Maga et Kousseri. Sa visite a été marquée par des tensions avec les élus locaux à Kousseri.",
+    "category": "Politique"
+},
+{
+    "lat": 6.5167,
+    "lon": 14.3000,
+    "title": "Lancement d’une campagne de santé à Meiganga",
+    "contenus": "Le 15 février 2025, le Ministre de la Santé Publique, Dr Manaouda Malachie, a lancé une campagne de santé gratuite pour dépister et traiter diverses maladies.",
+    "category": "Social"
+},
+{
+    "lat": 3.8667,
+    "lon": 11.5167,
+    "title": "Prestation de serment des nouveaux membres d'ELECAM",
+    "contenus": "Le 18 février 2025, Charles Nanga et Bernard Mboutou Ze, nouveaux membres d'ELECAM, prêteront serment devant le Conseil Constitutionnel.",
+    "category": "Politique"
+},
+{
+    "lat": 3.8667,
+    "lon": 11.5167,
+    "title": "Lancement du pré-enrôlement en ligne pour la CNI",
+    "contenus": "Le 17 février 2025, le Cameroun met en place un système de pré-enrôlement en ligne pour la Carte Nationale d'Identité, facilitant les démarches administratives.",
+    "category": "Politique"
+},
+{
+    "lat": 0.3136,
+    "lon": 32.5811,
+    "title": "Congrès de l'AAEA à Kampala",
+    "contenus": "Du 16 au 20 février 2025, Kampala accueille le Congrès International de l'AAEA sur l'eau et l'assainissement en Afrique.",
+    "category": "Économique"
+},
+{
+    "lat": 9.6850,
+    "lon": 3.3763,
+    "title": "Assises Nationales du Niger",
+    "contenus": "Du 15 au 19 février 2025, le Niger tient des Assises Nationales sous le haut patronage du Président Abdourahamane Tiani pour définir les priorités de la transition.",
+    "category": "Politique"
+},
+{
+    "lat": -8.8368,
+    "lon": 13.2331,
+    "title": "L'Angola prend la présidence de l'Union Africaine",
+    "contenus": "João Lourenço, Président de l'Angola, prend la présidence tournante de l'Union Africaine pour l'année 2025.",
+    "category": "Politique"
+}
+  
+  ]
